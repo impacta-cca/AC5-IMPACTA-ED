@@ -1,5 +1,16 @@
 package test;
 
+/*
+ * INTEGRANTES:
+
+	Arthur Silva
+	Carolina Castro
+	Lucas da Silva
+	Larissa Ionafa
+	Roberta Yumi
+ * 
+ */
+
 import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
